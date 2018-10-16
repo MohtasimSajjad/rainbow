@@ -25,3 +25,8 @@ Recycle!
  With regards to the Issue created recently, 
  I am making some changes to this file. 
  I am adding some new code here. 
+ 
+ 
+ Now I am adding this code to try to close the Issue #4 automatically. 
+ I can close an Issue automatically by using the keyword "fixes" followed by the Issue ID. 
+ Note that I need to add these information in the Commit Changes title. 
